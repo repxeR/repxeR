@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @repxeR
+- 👋 Hi, I’m Adittya
 - 👀 I’m interested in different coding languages
 - 🌱 I’m proficient in Java and C
 - 💞️ Not looking to collaborate yet 
