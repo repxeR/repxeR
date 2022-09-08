@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adittya
-- 👀 I’m interested in different coding languages
+- 👀 I’m interested in computer vision
 - 🌱 I’m proficient in Java and C
 - 💞️ Not looking to collaborate yet 
 - 📫 How to reach me ... discord: reaper#3247, email: adittyapie@gmail.com
