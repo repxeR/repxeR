@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Adittya
-- 📫 How to reach me ... discord: reaper#3247, email: adittyapie@gmail.com
+- 📫 How to reach me ...
+- discord: reaper#3247, email: das.adittya914@gmail.com
 
 <!---
 repxeR/repxeR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
